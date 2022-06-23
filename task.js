@@ -60,7 +60,7 @@ if (Number1 === Number1 && Number2 === Number2) {
    } else if (Operation === "*") {
    alert(Number1 * Number2) ;
    } else if (Operation === "/") {
-   alert(Number1 / Number2);
+   alert(Number1 /  Number2);
    } else {
       alert('Что ты творишь....')
    } 
